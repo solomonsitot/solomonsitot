@@ -24,7 +24,7 @@ Here's a fun fact about me: When I'm not coding, you can often find me exploring
 
 I'm always eager to learn and connect with fellow developers and tech enthusiasts. If you'd like to chat, collaborate, or just say hi, feel free to reach out!
 
-- Telegram: [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](t.me/solosaj08)
+- Telegram: [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/solosaj08)
 - Email: [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](solomonsitotaw89@gmail.com)
 
 
