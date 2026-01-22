@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I'm Solomon Sitotaw, a passionate software engineering student at Arbaminch University. I specialize in full-stack development with a focus on MERN stack technologies. As a creative problem solver, I enjoy turning ideas into robust and efficient software solutions.
+Hello! I'm Solomon Sitotaw, a passionate software engineer with a 2+ Years experience. I specialize in full-stack development with a focus on MERN stack technologies. As a creative problem solver, I enjoy turning ideas into robust and efficient software solutions.
 
 ## Technologies
 
